@@ -1,0 +1,40 @@
+// arrys
+
+["ram","yash","joo","amit"]
+
+
+//objects
+
+const a={
+"name":"yash",
+"rollno":34,
+"phone":554433,
+"student":"true",
+},
+
+
+// arrys of objects
+
+[
+{
+    "name":"yash",
+    "phone":[123,234,4567,11],
+    "laptop":{
+        "model":"dell",
+        "year":2021,
+    },
+},
+
+{
+    "name":"yash",
+    "phone":123,
+},
+
+{
+    "name":"yash",
+    "phone":321,
+},
+
+
+]
+
